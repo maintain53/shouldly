@@ -1,5 +1,5 @@
 ![Icon](https://raw.github.com/shouldly/shouldly/master/package_icon.png)
-
+Gloria Nwokoye
 Contributing to Shouldly
 ========================
 
